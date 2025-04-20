@@ -1,1 +1,1 @@
-
+There are 3 files in this folder, the benchmarks which contains the functions, the example where the functions get run along with the optimization methods, and lastly the experiments csv which contians the results in the [Individual] column which are 3 values that represent the best values to use or the answer of the prescriptive analysis.
